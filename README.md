@@ -3,7 +3,7 @@
 
 
 ** how to run your program.
-Through the terminal first enter javac CodingChallenge.java. Then enter java CodingChallenge [filename]. [filename] refers to the filename or filepath that you would like to be scanned. If you are simply entering filename ensure that file is added into the src folder inside. 
+Before typing in terminal command ensure you are in correct folder, you need to be inside the src folder before typing in commands. Through the terminal first enter javac CodingChallenge.java. Then enter java CodingChallenge [filename]. [filename] refers to the filename or filepath that you would like to be scanned. If you are simply entering filename ensure that file is added into the src folder inside. 
 
 
 ** What you would do next, given more time (if anything)?
